@@ -10,6 +10,9 @@ namespace CommunicateCore.Command
 	{
 		protected DateTime? _commandTime = null;
 
+
+
+
 		#region Inherited
 
 		/// <summary>
